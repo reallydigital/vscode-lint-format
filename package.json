@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-wesbos",
+  "name": "vscode-lint-format",
   "version": "0.0.20",
   "description": "ESLint and Prettier Config from Wes Bos",
   "keywords": [
